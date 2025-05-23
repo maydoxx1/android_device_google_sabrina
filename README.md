@@ -1,4 +1,4 @@
-# Android device tree for google Chromecast (sabrina)
+# Android device tree for  Google Chromecast with Google TV 4K (sabrina)
 
 ```
 #
